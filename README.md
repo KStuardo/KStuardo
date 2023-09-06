@@ -13,6 +13,6 @@ Soy Kevin estudiante de ingeniería informática en Duocuc.<br>Mi objetivo es ap
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KStuardo &icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
